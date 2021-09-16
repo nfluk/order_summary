@@ -1,5 +1,6 @@
 main {
-  height: 100vh;
+  height: 85vh;
+  width: 85vh;
   background-image: url(images/pattern-background-desktop.svg);
   background-repeat: no-repeat;
   display: flex;
@@ -16,6 +17,7 @@ main {
 .attribution {
   font-size: 11px;
   text-align: center;
+  width: 85vh;
 }
 
 .attribution a {
