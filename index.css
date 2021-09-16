@@ -19,7 +19,7 @@ main {
   width: 450px;
   height: 698px;
   background-color: white;
-
+  border-radius: 20px;
   border: 1px solid red;
 }
 
@@ -28,6 +28,7 @@ main {
   height: 222px;
   background-image: url(images/illustration-hero.svg);
   background-repeat: no-repeat;
+  border-radius: 20px 20px 0px 0px;
 }
 
 .attribution {
