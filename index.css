@@ -43,11 +43,24 @@ main {
   border: 1px solid red;
 }
 
+#annualLeft {
+  float: left;
+  margin-left: 60px;
+  margin-top: 12px;
+  line-height: 1.5em;
+}
+
+#change {
+  float: right;
+  margin-right: 15px;
+  margin-top: 25px;
+}
+
 h1 {
   padding: 40px;
 }
 
-.gray {
+#mainText {
   color: #9396a4;
 }
 
