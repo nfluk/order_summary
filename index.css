@@ -5,14 +5,16 @@ main {
   background-repeat: no-repeat;
   display: flex;
   justify-content: center;
+  align-items: center;
   background-color: hsl(273, 76%, 84%);
   border: 1px solid red;
 }
 
-/*#window {
-  height: 250px;
-  width: 100px;
-}*/
+#card {
+  height: 70%;
+  width: 35%;
+  border: 1px solid red;
+}
 
 .attribution {
   font-size: 11px;
