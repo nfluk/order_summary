@@ -1,6 +1,11 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
 main {
   width: 85vh;
-  height: 85vh;
+  height: 70vh;
   background-color: hsl(273, 76%, 84%);
   background-image: url(images/pattern-background-desktop.svg);
   background-repeat: no-repeat;
