@@ -38,7 +38,7 @@ main {
   background-color: #f8f9fe;
   background-image: url(images/icon-music.svg);
   background-repeat: no-repeat;
-  background-position-x: 10px;
+  background-position-x: 20px;
   background-position-y: 20px;
   border-radius: 10px;
   border: 1px solid red;
@@ -46,7 +46,7 @@ main {
 
 #annualLeft {
   float: left;
-  margin-left: 60px;
+  margin-left: 80px;
   margin-top: 12px;
   line-height: 1.5em;
 }
@@ -55,6 +55,14 @@ main {
   float: right;
   margin-right: 15px;
   margin-top: 25px;
+}
+
+#plan {
+  font-weight: 900;
+}
+
+#cost {
+  color: #9396a4;
 }
 
 h1 {
