@@ -71,6 +71,9 @@ h1 {
 
 #mainText {
   color: #9396a4;
+  margin-left: 60px;
+  margin-right: 60px;
+  line-height: 1.5em;
 }
 
 .attribution {
