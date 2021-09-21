@@ -4,6 +4,7 @@
 }
 
 main {
+  font-family: "Red Hat Display", sans-serif;
   width: 85vh;
   height: 70vh;
   background-color: #e0e8ff;
