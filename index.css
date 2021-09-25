@@ -42,7 +42,6 @@ main {
   background-position-x: 20px;
   background-position-y: 20px;
   border-radius: 10px;
-  border: 1px solid red;
 }
 
 #annualLeft {
@@ -89,8 +88,15 @@ h1 {
 #payment p {
   text-align: center;
   margin-top: 17px;
+  padding-top: 14px;
   color: white;
   font-weight: 700;
+}
+
+#cancel {
+  color: #757883;
+  margin-top: 30px;
+  font-weight: 500;
 }
 
 .attribution {
