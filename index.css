@@ -55,6 +55,10 @@ main {
   float: right;
   margin-right: 15px;
   margin-top: 25px;
+  text-decoration: underline;
+  color: hsl(245, 75%, 52%);
+  font-weight: 700;
+  font-size: 92%;
 }
 
 #plan {
@@ -96,7 +100,7 @@ h1 {
 #cancel {
   color: #757883;
   margin-top: 30px;
-  font-weight: 500;
+  font-weight: bold;
 }
 
 .attribution {
