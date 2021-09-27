@@ -5,6 +5,7 @@
 
 main {
   font-family: "Red Hat Display", sans-serif;
+  font-size: 16px;
   width: 85vh;
   height: 70vh;
   background-color: #e0e8ff;
@@ -31,11 +32,18 @@ main {
   border-radius: 20px 20px 0px 0px;
 }
 
+#mainText {
+  color: #9396a4;
+  margin-left: 60px;
+  margin-right: 60px;
+  line-height: 1.5em;
+}
+
 #annualPlan {
   width: 356px;
   height: 70px;
   margin: 20px auto;
-  padding: 10px;
+  padding: 20px;
   background-color: #f8f9fe;
   background-image: url(images/icon-music.svg);
   background-repeat: no-repeat;
@@ -74,14 +82,7 @@ main {
 }
 
 h1 {
-  padding: 40px;
-}
-
-#mainText {
-  color: #9396a4;
-  margin-left: 60px;
-  margin-right: 60px;
-  line-height: 1.5em;
+  padding: 40px 40px 20px 40px;
 }
 
 #payment {
